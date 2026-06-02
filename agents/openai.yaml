@@ -1,0 +1,7 @@
+interface:
+  display_name: "Quality Value Stock Screener"
+  short_description: "Industry-aware quality/value stock scoring."
+  default_prompt: "Use $quality-value-stock-screener to screen NVDA META MSFT ADBE V CRM for quality and valuation."
+
+policy:
+  allow_implicit_invocation: true
