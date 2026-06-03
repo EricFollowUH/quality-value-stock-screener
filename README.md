@@ -1,5 +1,7 @@
 # Quality Value Stock Screener
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 `quality-value-stock-screener` is a Codex skill for screening public equities with an industry-aware quality and valuation framework.
 
 It helps answer two common research questions:
